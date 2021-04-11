@@ -1,5 +1,4 @@
 name: test with JUnit
-
 on:
   push:
     branches: [ main ]
